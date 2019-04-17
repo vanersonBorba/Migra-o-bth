@@ -12,7 +12,7 @@ Este documento descreve o desafio para MIgração de dados de multiplas origens 
 
 # Instruções para entrega
 
-Fazer um fork desse projeto, desenvolver e enviar o link do repositório.
-Documentar todos passos para rodar as rotinas.
-O histórico do Git também será avaliado.
-Entregas parcias também serão aceitas e avaliadas.
+* Fazer um fork desse projeto, desenvolver e enviar o link do repositório.
+* Documentar todos passos para rodar as rotinas.
+* O histórico do Git também será avaliado.
+* Entregas parcias também serão aceitas e avaliadas.
