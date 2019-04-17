@@ -2,7 +2,7 @@
 
 Este documento descreve o desafio para MIgração de dados de multiplas origens para um repositório unico.
 
-### Rotinas de Migração de dados para consolidação de informações oriunda de diversas fontes 
+### Rotinas para Migração de dados de diversas fontes
 
 ### Itens obrigatórios
 
