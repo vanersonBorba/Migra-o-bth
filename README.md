@@ -4,7 +4,7 @@ Este documento descreve o desafio para MIgração de dados de multiplas origens 
 
 ### Rotinas para Migração de dados de diversas fontes
 
-Uma empresa fornecedores de software deve implantar sua solução de controle de acessos em um cliente, porém esse cliente adicionou em contrato uma cláusula obrigado a nova fornecedora realizar a importação dos dados existentes em sua base antiga no novo software a ser utilizado.
+Uma empresa fornecedora de software irá implantar sua solução para controle de acessos em um cliente, porém esse cliente adicionou em contrato uma cláusula obrigado a nova fornecedora realizar a importação dos dados existentes em sua base antiga no novo software a ser utilizado.
 
 Os desafios observados nesse projeto são que os dados atuais do cliente estão armazenados em cada dispositivo de acesso, já a nova solução necessita que os dados sejam armazenados em um repositório único.
 ### Itens obrigatórios
