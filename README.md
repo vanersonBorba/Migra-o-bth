@@ -16,7 +16,7 @@ Observação: Optar sempre pelo campo que contenha dados.
 * Os registros de locais de acesso deverão tornar-se únicos na base de destino; 
 * Os locais onde as mesmas possuem acesso devem continuar inalterados; 
 * A migração deve permitir a execução de forma automática e por qualquer outro profissional da empresa; 
-* Possibilidade de executar mais de uma vez o processo na base de destino sem gerar duplicidade nos registros já existentes na base; 
+* Possibilidade de executar mais de uma vez o processo na base de destino sem gerar duplicidade nos registros; 
 * Deve carregar todos os registros de apontamento de acesso com seus devidos locais. 
 * Caso existam inconformidade nos dados, essas devem ser apresentadas ao técnico que está executando o processo de carga;
 * Possibilidade e reutilizar rotinas em novos cliente com a mesma estrutura sem necessidade de alteração das mesmas
