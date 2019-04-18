@@ -19,15 +19,14 @@ Observação: Optar sempre pelo campo que contenha dados.
 * Possibilidade de executar mais de uma vez o processo na base de destino sem gerar duplicidade nos registros já existentes na base; 
 * Deve carregar todos os registros de apontamento de acesso com seus devidos locais. 
 * Caso existam inconformidade nos dados, essas devem ser apresentadas ao técnico que está executando o processo de carga;
-* Possibilidade e reutilizar rotinas em novos cliente com a mesma estrutura
+* Possibilidade e reutilizar rotinas em novos cliente com a mesma estrutura sem necessidade de alteração das mesmas
 
 ### Itens desejáveis
 
 * Disponibilizar relatório de anomalias contendo inconsistências e advertências;
 * Mecanismo para identificar mudanças da estrutura de origem;
-* Documentação que descreva passo a passo como executar o processo de carga de dados;
+* Documentação descrevendo passo-a-passo como executar o processo de carga de dados;
 
-### Requisitos não funcionais
 
 ### Instruções para entrega
 
