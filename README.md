@@ -29,7 +29,23 @@ Os desafios observados nesse projeto são que os dados atuais do cliente estão 
 
 ### Instruções 
 
+* Arquivos com a estrutura de dados do sistema de destino
+[Estrutura_dados_controle_acesso.sql]: https://raw.githubusercontent.com/vanersonBorba/desafio-migracao-bth/master/Estrutura_dados_controle_acesso.sql
+
 * Arquivos de dados 
+
+[ponto1.csv]: https://raw.githubusercontent.com/vanersonBorba/desafio-migracao-bth/master/ponto1.csv
+[ponto2.csv]: https://raw.githubusercontent.com/vanersonBorba/desafio-migracao-bth/master/ponto2.csv
+[ponto3.csv]: https://raw.githubusercontent.com/vanersonBorba/desafio-migracao-bth/master/ponto3.csv
+[ponto4.csv]: https://raw.githubusercontent.com/vanersonBorba/desafio-migracao-bth/master/ponto4.csv
+[ponto5.json]: https://raw.githubusercontent.com/vanersonBorba/desafio-migracao-bth/master/ponto5.json
+
+[marcacoes1.csv]: https://raw.githubusercontent.com/vanersonBorba/desafio-migracao-bth/master/marcacoes1.csv
+[marcacoes2.csv]: https://raw.githubusercontent.com/vanersonBorba/desafio-migracao-bth/master/marcacoes2.csv
+[marcacoes3.csv]: https://raw.githubusercontent.com/vanersonBorba/desafio-migracao-bth/master/marcacoes3.csv
+[marcacoes4.csv]: https://raw.githubusercontent.com/vanersonBorba/desafio-migracao-bth/master/marcacoes4.csv
+[marcacoes5.json]: https://raw.githubusercontent.com/vanersonBorba/desafio-migracao-bth/master/marcacoes5.json
+
 
 ### Instruções para entrega
 
