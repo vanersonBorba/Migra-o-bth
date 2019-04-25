@@ -20,6 +20,7 @@ Os desafios observados nesse projeto são que os dados atuais do cliente estão 
 * Deve carregar todos os registros de apontamento de acesso com seus devidos locais. 
 * Caso exista inconformidade nos dados, essas devem ser tratadas e apresentadas ao técnico que está executando o processo de carga;
 * Possibilidade de reutilizar as rotinas de migração em novos cliente que posuam a mesma estrutura sem necessidade de alterações;
+* Disponibilizar dados migrados em arquivos formato JSON com a mesma estrutura do banco de destino.
 
 ### Itens desejáveis
 
@@ -27,17 +28,11 @@ Os desafios observados nesse projeto são que os dados atuais do cliente estão 
 * Mecanismo para identificar mudanças da estrutura de origem;
 * Documentação descrevendo passo-a-passo como executar o processo de carga de dados;
 
-### Instruções 
+### Estrutura e Dados 
 
-* Arquivos com a estrutura de dados do sistema de destino
+* Arquivos com a estrutura de dados do sistema de destino: Estrutura_dados_controle_acesso.sql
 
-##### Estrutura_dados_controle_acesso.sql
-
-* Arquivos de dados 
-
-##### ponto1.csv, ponto2.csv, ponto3.csv, ponto4.csv, ponto5.json
-
-##### marcacoes1.csv, marcacoes2.csv, marcacoes3.csv, marcacoes4.csv, marcacoes5.json
+* Arquivos de dados: ponto1.csv, ponto2.csv, ponto3.csv, ponto4.csv, ponto5.json, marcacoes1.csv, marcacoes2.csv, marcacoes3.csv, marcacoes4.csv, marcacoes5.json
 
 ### Instruções para entrega
 
