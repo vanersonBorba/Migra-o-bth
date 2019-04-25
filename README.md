@@ -27,6 +27,9 @@ Os desafios observados nesse projeto são que os dados atuais do cliente estão 
 * Mecanismo para identificar mudanças da estrutura de origem;
 * Documentação descrevendo passo-a-passo como executar o processo de carga de dados;
 
+### Instruções 
+
+* Arquivos de dados 
 
 ### Instruções para entrega
 
