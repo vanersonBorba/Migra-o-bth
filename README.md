@@ -31,29 +31,13 @@ Os desafios observados nesse projeto são que os dados atuais do cliente estão 
 
 * Arquivos com a estrutura de dados do sistema de destino
 
-Estrutura_dados_controle_acesso.sql
+##### Estrutura_dados_controle_acesso.sql
 
 * Arquivos de dados 
 
-ponto1.csv
+##### ponto1.csv, ponto2.csv, ponto3.csv, ponto4.csv, ponto5.json
 
-ponto2.csv
-
-ponto3.csv
-
-ponto4.csv
-
-ponto5.json
-
-marcacoes1.csv
-
-marcacoes2.csv
-
-marcacoes3.csv
-
-marcacoes4.csv
-
-** marcacoes5.json
+##### marcacoes1.csv, marcacoes2.csv, marcacoes3.csv, marcacoes4.csv, marcacoes5.json
 
 ### Instruções para entrega
 
