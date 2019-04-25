@@ -36,15 +36,24 @@ Estrutura_dados_controle_acesso.sql
 * Arquivos de dados 
 
 ponto1.csv
+
 ponto2.csv
+
 ponto3.csv
+
 ponto4.csv
+
 ponto5.json
+
 marcacoes1.csv
+
 marcacoes2.csv
+
 marcacoes3.csv
+
 marcacoes4.csv
-marcacoes5.json
+
+** marcacoes5.json
 
 ### Instruções para entrega
 
